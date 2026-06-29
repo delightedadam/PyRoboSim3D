@@ -12,5 +12,6 @@ Visual Focus: The currently active joint/link is highlighted with a thicker line
 ---
 Prerequisites & Installation
 
-Make sure you have Python installed along with the required libraries:
+Make sure you have Python installed along with the required librarie:
+
 pip install numpy matplotlib
