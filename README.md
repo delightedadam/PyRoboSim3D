@@ -1,3 +1,8 @@
+
+      FUTUR CHANGES upcoming 
+
+  
+
 KinemaBot3D: Interactive 3D Robotic Arm Simulator
 
 An interactive, lightweight 3D robotic arm simulator built from scratch using Python, NumPy, and Matplotlib. This project computes and visualizes the Forward Kinematics of a multi-joint serial manipulator in real-time using custom 3D rotation matrices.
