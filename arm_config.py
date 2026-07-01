@@ -2,7 +2,7 @@ import numpy as np
 import copy
 
 
-#there is an example for how to create an arm "robotis" is his name 
+#there is an example for how to create an arm and "robotis" is his name 
 class robotis:
     def __init__(self, start):
         self.depart = start
